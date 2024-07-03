@@ -4,10 +4,10 @@
 
 :root{
     --branco: rgb(255, 255, 255);
-    --cor-de-fundo: #DA70D6 ;
-    --fundo-senha: #ec7bec	;
-    --fundo-texto: #FF00FF;
-    --borda: #8B008B ;
+    --cor-de-fundo: #90EE90;
+    --fundo-senha: #9ACD32;
+    --fundo-texto: #3CB371;
+    --borda: #2E8B57 ;
     --roboto: 'Bebas Neue', sans-serif;
     --roboto-mono: 'Bebas Neue', monospace;
 }
